@@ -1,0 +1,16 @@
+in python we can take user input and give it back to them
+python is fun 
+we can do math
+we can calculate stuff get input and
+we can link networkgive calculated output
+we can run loops to print numbers or strings 
+we can write conditional statements 
+we can read text files 
+we can save user data 
+we can link network
+we can create gui softwares 
+and much more 
+python is fun 
+it is exiting 
+we can run loops to print numbers or strings 
+
