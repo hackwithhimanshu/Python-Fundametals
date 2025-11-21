@@ -1,0 +1,13 @@
+world = ["japan", "europe", "australia", "egypt", "bali"]
+print(f"Original list\n {world}")
+print(f"Sorted list\n {sorted(world)}")
+print(f"{sorted(world, reverse=True)}")
+print(world)
+world.reverse()
+print(world)
+world.reverse()
+print(world)
+world.sort()
+print(world)
+world.sort(reverse=True)
+print(world)
